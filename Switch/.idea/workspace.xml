@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87e5a6d4-d788-4beb-8044-0e73820741ea" name="Default Changelist" comment="" />
+    <list default="true" id="87e5a6d4-d788-4beb-8044-0e73820741ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Methods" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +24,16 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -76,12 +82,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548784165260</updated>
-      <workItem from="1548784179083" duration="233000" />
+      <workItem from="1548784179083" duration="624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239000" />
+    <option name="totallyTimeSpent" value="624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
