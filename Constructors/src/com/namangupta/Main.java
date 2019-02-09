@@ -4,19 +4,31 @@ public class Main {
 
     public static void main(String[] args) {
 
-        BankAccount account1 = new BankAccount();
-        account1.setAccountNumber(123456);
-        account1.setBalance(5000);
-        account1.setCustomerName("Raghuveer");
-        account1.setEmail("raghuveer@abc.xyz");
-        account1.setPhone(987613468);
-        System.out.println("Customer Name: " + account1.getCustomerName() +
-                "\nAccount Number: " + account1.getAccountNumber() +
-                "\nBalance: ₹ " + account1.getBalance() +
-                "\nEmail: " + account1.getEmail() +
-                "\nPhone no.: +(91) - " + account1.getPhone());
-        account1.deposit(3500);
-        account1.withdraw(10000);
+        /*Account bobsAccount = new Account();
+        System.out.println(bobsAccount.getNumber());
+        System.out.println(bobsAccount.getBalance());
+
+        bobsAccount.withdrawal(100.0);
+
+        bobsAccount.deposit(50.0);
+        bobsAccount.withdrawal(100.0);
+
+        bobsAccount.deposit(51.0);
+        bobsAccount.withdrawal(100.0);
+
+        Account timsAccount = new Account("Tim", "tim@email.com", "12345");
+        System.out.println(timsAccount.getNumber() + " name " + timsAccount.getCustomerName());*/
+
+        VipCustomer customer1 = new VipCustomer();
+        System.out.println(customer1.getName());
+
+        VipCustomer customer2 = new VipCustomer("Bob", 25000.00);
+        System.out.println(customer2.getName());
+
+        VipCustomer customer3 = new VipCustomer("Tim", 100.00, "tim@email.com");
+        System.out.println(customer3.getName());
+        System.out.println(customer3.getEmailAddress());
+
 
 
     }

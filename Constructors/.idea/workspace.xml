@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c424185-6b19-4f43-a46b-02163ccba6de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/namangupta/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/namangupta/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/namangupta/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,41 +15,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/namangupta/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            <state relative-caret-position="98">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="19" selection-end-column="97" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/namangupta/BankAccount.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/namangupta/VipCustomer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+            <state relative-caret-position="266">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
-                <element signature="e#747#748#0" expanded="true" />
-                <element signature="e#789#790#0" expanded="true" />
-                <element signature="e#823#824#0" expanded="true" />
-                <element signature="e#852#853#0" expanded="true" />
-                <element signature="e#880#881#0" expanded="true" />
-                <element signature="e#921#922#0" expanded="true" />
-                <element signature="e#955#956#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#736#737#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/namangupta/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="e#1663#1664#0" expanded="true" />
+                <element signature="e#1743#1744#0" expanded="true" />
+                <element signature="e#1807#1808#0" expanded="true" />
+                <element signature="e#1891#1892#0" expanded="true" />
+                <element signature="e#1965#1966#0" expanded="true" />
+                <element signature="e#2069#2070#0" expanded="true" />
+                <element signature="e#2159#2160#0" expanded="true" />
+                <element signature="e#2383#2384#0" expanded="true" />
+                <element signature="e#2515#2516#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,8 +80,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/namangupta/Main.java" />
         <option value="$PROJECT_DIR$/src/com/namangupta/BankAccount.java" />
+        <option value="$PROJECT_DIR$/src/com/namangupta/VipCustomer.java" />
+        <option value="$PROJECT_DIR$/src/com/namangupta/Account.java" />
+        <option value="$PROJECT_DIR$/src/com/namangupta/Main.java" />
       </list>
     </option>
   </component>
@@ -85,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,12 +122,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549705906099" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549715210900" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,11 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549703652925</updated>
       <workItem from="1549703688915" duration="2128000" />
+      <workItem from="1549710141807" duration="4100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2128000" />
+    <option name="totallyTimeSpent" value="6228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -174,7 +189,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Messages" order="1" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32850242" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
@@ -194,46 +209,61 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Run" order="9" visible="true" weight="0.42586988" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.42586988" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/namangupta/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/namangupta/BankAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="421">
+          <caret line="62" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/namangupta/BankAccount.java">
+    <entry file="file://$PROJECT_DIR$/src/com/namangupta/VipCustomer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+        <state relative-caret-position="266">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#747#748#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
-            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/namangupta/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#1663#1664#0" expanded="true" />
+            <element signature="e#1743#1744#0" expanded="true" />
+            <element signature="e#1807#1808#0" expanded="true" />
+            <element signature="e#1891#1892#0" expanded="true" />
+            <element signature="e#1965#1966#0" expanded="true" />
+            <element signature="e#2069#2070#0" expanded="true" />
+            <element signature="e#2159#2160#0" expanded="true" />
+            <element signature="e#2383#2384#0" expanded="true" />
+            <element signature="e#2515#2516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/namangupta/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="19" selection-end-column="97" />
         </state>
       </provider>
     </entry>
